@@ -1,0 +1,23 @@
+# Node modules
+/node_modules
+
+# Laravel specific
+/public/hot
+/public/storage
+/storage
+/storage/logs/laravel.log
+
+/vendor
+# Environment and configuration files
+.env
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+
+# Debug and IDE files
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/.github.
